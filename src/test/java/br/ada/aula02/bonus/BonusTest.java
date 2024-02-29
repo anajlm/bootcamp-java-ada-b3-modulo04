@@ -1,4 +1,4 @@
-package br.ada.aula02;
+package br.ada.aula02.bonus;
 
 import br.ada.aula02.bonus.Bonus;
 import org.junit.jupiter.api.Test;

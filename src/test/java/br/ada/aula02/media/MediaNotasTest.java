@@ -1,4 +1,4 @@
-package br.ada.aula02;
+package br.ada.aula02.media;
 
 import br.ada.aula02.media.MediaNotas;
 import org.junit.jupiter.api.Test;
